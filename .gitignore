@@ -1,0 +1,6 @@
+*.pyc
+*.py~
+*.swp
+*.h5
+*.csv
+*.egg-info
